@@ -11,3 +11,11 @@
 .nav-pills{
     padding: 1%;
 }
+.fecha {
+    margin-left: auto;
+    color: darkgray;
+}
+.imagensita{
+    object-fit: cover;
+    width: 100%;
+}
